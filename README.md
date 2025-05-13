@@ -5,10 +5,6 @@ Este espaço foi criado para centralizar os projetos, práticas e aprendizados d
 
 Nosso principal objetivo é promover a **colaboração em equipe** por meio das **melhores práticas de Git e GitHub**, fortalecendo a organização, a comunicação e o versionamento de código ao longo do processo de desenvolvimento.
 
-## Historia.txt
-
-O arquivo `Historia.txt` faz parte da nossa proposta de evolução conjunta. Nele registramos, de forma contínua, marcos importantes da nossa jornada como squad, promovendo transparência, integração e engajamento entre todos os membros.
-
 ## O que estamos praticando
 
 - Fluxo de trabalho com Git colaborativo (branches, pull requests, merge)
