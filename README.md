@@ -1,4 +1,4 @@
-# Squad 6 - Compass UOL
+# Squad 6 - CompassUOL
 
 Bem-vindo ao repositório da **Squad 6** do programa de formação da **Compass UOL**.  
 Este espaço foi criado para centralizar os projetos, práticas e aprendizados desenvolvidos em conjunto pela squad.
