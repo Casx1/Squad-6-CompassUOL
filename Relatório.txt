@@ -1,0 +1,22 @@
+Nossa equipe não encontrou dificuldades na elaboração da atividade de 
+criação de uma história coletiva com o objetivo de praticar o uso do 
+Git e GitHub.
+
+Aplicamos com facilidade os conceitos trabalhados em aula, como o uso 
+de branches, merge e demais recursos, sempre seguindo as boas práticas 
+do Gitflow.
+
+Desde o começo, organizamos a estrutura da história em três partes — 
+introdução, desenvolvimento e conclusão — e distribuímos essas etapas 
+entre os membros da squad.
+
+Cada integrante ficou responsável por uma parte específica, garantindo 
+que o trabalho fosse realizado de forma colaborativa, mas também 
+assíncrona, respeitando os diferentes ritmos e horários de contribuição.
+
+Todos os commits foram feitos de maneira organizada e padronizada, o que 
+facilitou o processo de revisão e integração do conteúdo.
+
+O uso correto das branches temáticas e dos pull requests possibilitou 
+um fluxo de trabalho limpo, eficiente e sem conflitos, refletindo o bom 
+entendimento da equipe sobre versionamento e colaboração em projetos com Git.
